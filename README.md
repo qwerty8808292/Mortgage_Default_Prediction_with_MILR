@@ -1,7 +1,7 @@
 # Mortgage_Default_Prediction_with_MILR
-This project aims to predict mortgage defaults using a comprehensive panel dataset and advanced statistical techniques, specifically Multiple Instance Logistic Regression (MILR). The dataset is from:\\
-[here](http://www.creditriskanalytics.net/datasets-private2.html)\\
-Scheule, H., Roesch, D., & Baesens, B. (2017). *Credit Risk Analytics: The R Companion*. Scheule Roesch Baesens.\\
+This project aims to predict mortgage defaults using a comprehensive panel dataset and advanced statistical techniques, specifically Multiple Instance Logistic Regression (MILR). The dataset is from:<br>
+[here](http://www.creditriskanalytics.net/datasets-private2.html)<br>
+Scheule, H., Roesch, D., & Baesens, B. (2017). *Credit Risk Analytics: The R Companion*. Scheule Roesch Baesens.<br>
 Including origination and performance observations for 50,000 U.S. mortgage borrowers over 60 periods. The objective is to identify key determinants of mortgage default and build a predictive model that provides valuable insights for financial institutions, policymakers, and investors.
 
 ## Repository Structure
